@@ -1,0 +1,45 @@
+  {
+    "OKUMADANGECME" : "Aşağıdaki tamamen boş bırakılan yerlere ID girin OKUDUKTAN SONRA burayı silebilirsiniz + Olarak emojileri ID olarak koymazsanız çalışmaz",
+    "OKUMADANGECME2" : "TOKEN .env kısmında TOKEN yazan yerin karşısına tokeninizi yapıstırınız.",
+
+    "sahip" : "289464872222064651",
+    "prefix" : ".",
+    "footer" : "BLack Coffee ❤️ Nihad",
+
+    "tag" : "☕",
+    "sembol" : " ",
+  
+    "yetkiliRol" : ["834152265173958717", "2. YOKSA BOŞ BIRAK", "3. YOKSA BOŞ BIRAK"],
+    "vipRol" : "840899018254843924",
+    "boosterRol" : "839058850564669502",
+    "kayıtsızRol" : "834152276947501147",
+    "erkekRol1" : "834152272527228988",
+    "erkekRol2" : "840897370941423616",
+    "kadınRol1" : "834152269221724290",
+    "kadınRol2" : "840240241663410197",
+
+    "sifirEmoji" : "840892548897046548",
+    "birEmoji" : "840891547565686808",
+    "ikiEmoji" : "840891570084380702",
+    "ucEmoji" : "840891576376360960",
+    "dortEmoji" : "840891576359452682",
+    "besEmoji" : "840891576342413322",
+    "altiEmoji" : "840891576497471509",
+    "yediEmoji" : "840891576498126898",
+    "sekizEmoji" : "840891576582668288",
+    "dokuzEmoji" : "840891576632082432",
+
+    "tagRol" : "834152267887542273",
+
+    "hosgeldinKanal" : "834334765947289610",
+    "hosgeldinMesajEmoji" : "834693613119733780",
+    "hosgeldinMesajYetkili": "834152265173958717",
+    "rulesKanal" : "834408740387553311",
+
+    "sohbetKanal" : "834692262624886824", 
+  
+    "botSesKanal" : "840134930100256778",
+  
+    "yes" : "837999865224233001",
+    "no" : "837357935134900304"
+}
